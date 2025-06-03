@@ -13,6 +13,18 @@ h1 {
   font-size: 3.5em;
 }
 
-main p {
+.first-section p {
   color: #afafaf;
+}
+
+.first-section div {
+  font-size: 50% 50%;
+}
+
+.central-section {
+  font-size: 1.5em;
+}
+
+.span-main {
+  background-color: yellow;
 }
