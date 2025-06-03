@@ -1,0 +1,23 @@
+header {
+  background-color: #4ea1ff;
+  background-image: url(../img/pattern.png);
+  height: 109px;
+  background-size: contain;
+}
+
+header img {
+  height: 50px;
+}
+
+h1 {
+  font-size: 3.5em;
+}
+
+main p {
+  color: #afafaf;
+
+}
+
+p span {
+  color: #329bc8;
+}
