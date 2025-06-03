@@ -28,3 +28,24 @@ h1 {
 .span-main {
   background-color: yellow;
 }
+
+thead {
+  color: #d3fbfe;
+  background-color: #1faae4;
+}
+
+.tr-main {
+  background-color: #b1e6f2;
+}
+
+.tr-central {
+  background-color: #ffffff;
+}
+
+.end-section {
+  font-size: 1.5em;
+}
+
+.span-end {
+  background-color: yellow;
+}
