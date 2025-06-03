@@ -57,16 +57,20 @@ h3 {
 
 .span-monitor {
   background-image: url(../img/monitor.jpg);
-  background-size: 500px;
   background-size: contain;
   background-repeat: no-repeat;
-  font-size: 1.5em;
+  width: 500px;
+  height: 500px;
+  font-size: 2em;
+  color: #fffcff;
 }
 
 .span-graph {
   background-image: url(../img/graph.jpg);
-  background-size: 500px;
   background-size: contain;
   background-repeat: no-repeat;
-  font-size: 1.5em;
+  width: 500px;
+  height: 500px;
+  font-size: 2em;
+  color: #fffcff;
 }
