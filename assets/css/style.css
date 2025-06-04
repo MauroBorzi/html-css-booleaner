@@ -40,16 +40,22 @@ h1 {
 
 ul {
   padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 table {
-  padding-top: 20px;
+  border-collapse: collapse;
+}
+
+.cinquanta {
+  width: 50%;
 }
 
 thead {
   color: #d3fbfe;
   background-color: #1faae4;
   padding-top: 20px;
+  text-align: left;
 }
 
 .tr-main {
