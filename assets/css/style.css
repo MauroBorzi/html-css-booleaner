@@ -1,12 +1,22 @@
-header {
-  background-color: #4ea1ff;
-  background-image: url(../img/pattern.png);
-  height: 109px;
-  background-size: contain;
+* {
+  margin: 0;
 }
 
-header img {
-  height: 50px;
+main,
+footer {
+  padding: 20px;
+}
+
+header {
+  padding-top: 40px;
+  padding-left: 20px;
+  background-color: #4ea1ff;
+  background-image: url(../img/pattern.png);
+  background-size: 30%;
+}
+
+header .intestazione {
+  width: 250px;
 }
 
 h1 {
@@ -15,23 +25,31 @@ h1 {
 
 .first-section p {
   color: #afafaf;
-}
-
-.first-section div {
-  font-size: 50% 50%;
+  font-size: 1.2em;
+  padding-bottom: 20px;
 }
 
 .central-section {
   font-size: 1.5em;
+  padding-top: 20px;
 }
 
 .span-main {
   background-color: yellow;
 }
 
+ul {
+  padding-top: 20px;
+}
+
+table {
+  padding-top: 20px;
+}
+
 thead {
   color: #d3fbfe;
   background-color: #1faae4;
+  padding-top: 20px;
 }
 
 .tr-main {
@@ -44,6 +62,7 @@ thead {
 
 .end-section {
   font-size: 1.5em;
+  padding-top: 20px;
 }
 
 .span-end {
